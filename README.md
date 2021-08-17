@@ -19,11 +19,6 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [brandonwie/recent-activity](https://github.com/brandonwie/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 👍 Approved [#98](https://github.com/Readme-Workflows/recent-activity/pull/98#pullrequestreview-730157123) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 💪 Opened PR [#98](https://github.com/Readme-Workflows/recent-activity/pull/98) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 👍 Approved [#97](https://github.com/Readme-Workflows/recent-activity/pull/97#pullrequestreview-730097130) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🔴 Requested changes in [#97](https://github.com/Readme-Workflows/recent-activity/pull/97#pullrequestreview-730073117) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, August 17th, 2021, 11:31:08 AM

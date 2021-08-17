@@ -1,4 +1,4 @@
-### Hi, I'm Richard @shedc, I am a consultant in SAP Cloud Solutions.
+#### Hi, I'm Richard @shedc, I consultant on SAP Cloud Solutions.
 
 ## 👋 Projects I am slowely working on:
 - Learning Python to build a MasterTherm Heatpump plugin for HASS

@@ -22,6 +22,8 @@
 <img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_title=true" />
 </p>
 
+<p></p>
+
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. 

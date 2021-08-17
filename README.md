@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.schedc.vercel.app/api?username=schedc&show_icons=true&hide_border=true" />
+  <img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=schedc&show_icons=true&hide_border=true" />
 
 </details>
 

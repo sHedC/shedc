@@ -12,13 +12,14 @@
 - Snowboarding (when I get the chance)
 - Gardening (a Lot of it)
 
-### My Links
+## My Links
 [<img align="left" alt="shedc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
-<br/>
----
+## GitHub Stats
+
+<img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_border=true" />
 
 ## Recent GitHub Activity
 
@@ -32,8 +33,5 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, August 17th, 2021, 9:53:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-## GitHub Stats
-
-<img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/richard-holmes-3314251/

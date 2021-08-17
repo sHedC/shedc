@@ -18,7 +18,7 @@
 <br/>
 
 ## GitHub Stats
-<img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_border=false" />
+<img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_title=true" />
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->

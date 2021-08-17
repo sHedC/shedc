@@ -15,8 +15,9 @@
 ### My Links
 [<img align="left" alt="shedc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/richard-holmes-3314251/
+<br/>
 
+<br/>
 ---
 
 <details>
@@ -24,3 +25,14 @@
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.schedc.vercel.app/api?username=schedc&show_icons=true&hide_border=true" />
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/richard-holmes-3314251/

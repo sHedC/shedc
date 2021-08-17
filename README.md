@@ -20,19 +20,12 @@
 <br/>
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## Recent GitHub Activity
 
-</details>
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+## GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/richard-holmes-3314251/

@@ -19,10 +19,7 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 17th, 2021, 11:32:23 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats
 <img align="left" alt="shedc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shedc&show_icons=true&hide_title=true" />

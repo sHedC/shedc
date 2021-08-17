@@ -1,17 +1,18 @@
-### Hi, I'm Richard @shedc. I am a consultant in SAP Cloud Solutions
+### Hi, I'm Richard @shedc, I am a consultant in SAP Cloud Solutions.
 
----
-
-## Projects I am Slowely Working On:
+## 👋 Projects I am slowely working on:
 - Learning Python to build a MasterTherm Heatpump plugin for HASS
 - Learning Spring Boot and Quasar
 - Building Excel Tools and Macros
 
-## Other things I try:
-- Learn Spanish
-- Learning Spring Boot and Quasar Full Stack
-- Learning on SAP Activate
-- Trying to Build A MasterTherm interface for HASS
+## 👀 Other things I am interested in:
+- Trying to learn Spanish
+- Working on SAP Activate Certification
 - Sport (Running slowely!!!, Spartan also Slowely!!!)
 - Snowboarding (when I get the chance)
 - Gardening (a Lot of it)
+
+### My Links
+[<img align="left" alt="shedc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/richard-holmes-3314251/

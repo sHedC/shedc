@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Version 1.1.0 Release Candidate 4](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc4) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✔️ Closed issue [#14](https://github.com/sHedC/python-masterthermconnect/issues/14) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. 🎉 Merged PR [#15](https://github.com/sHedC/python-masterthermconnect/pull/15) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. 💪 Opened PR [#15](https://github.com/sHedC/python-masterthermconnect/pull/15) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ❗️ Opened issue [#14](https://github.com/sHedC/python-masterthermconnect/issues/14) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ❗️ Opened issue [#12](https://github.com/sHedC/homeassistant-mastertherm/issues/12) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ✔️ Closed issue [#4](https://github.com/sHedC/homeassistant-mastertherm/issues/4) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. 🎉 Merged PR [#11](https://github.com/sHedC/homeassistant-mastertherm/pull/11) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. 💪 Opened PR [#11](https://github.com/sHedC/homeassistant-mastertherm/pull/11) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ✌️ Released [Version 1.1.0 Release Candidate 4](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc4) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 6th, 2022, 11:33:11 AM
+Last Updated: Tuesday, December 6th, 2022, 12:17:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

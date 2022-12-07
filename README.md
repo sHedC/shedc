@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#12](https://github.com/sHedC/homeassistant-mastertherm/issues/12) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ✔️ Closed issue [#13](https://github.com/sHedC/homeassistant-mastertherm/issues/13) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. 🎉 Merged PR [#17](https://github.com/sHedC/homeassistant-mastertherm/pull/17) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 💪 Opened PR [#17](https://github.com/sHedC/homeassistant-mastertherm/pull/17) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ❗️ Opened issue [#16](https://github.com/sHedC/homeassistant-mastertherm/issues/16) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ✔️ Closed issue [#15](https://github.com/sHedC/homeassistant-mastertherm/issues/15) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. 🎉 Merged PR [#18](https://github.com/sHedC/homeassistant-mastertherm/pull/18) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. 💪 Opened PR [#18](https://github.com/sHedC/homeassistant-mastertherm/pull/18) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✔️ Closed issue [#12](https://github.com/sHedC/homeassistant-mastertherm/issues/12) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ✔️ Closed issue [#13](https://github.com/sHedC/homeassistant-mastertherm/issues/13) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 7th, 2022, 8:33:20 PM
+Last Updated: Wednesday, December 7th, 2022, 9:08:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#15](https://github.com/sHedC/homeassistant-mastertherm/issues/15) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#19](https://github.com/sHedC/homeassistant-mastertherm/pull/19) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. 💪 Opened PR [#19](https://github.com/sHedC/homeassistant-mastertherm/pull/19) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. ✔️ Closed issue [#15](https://github.com/sHedC/homeassistant-mastertherm/issues/15) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 🎉 Merged PR [#18](https://github.com/sHedC/homeassistant-mastertherm/pull/18) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. 🔱 Forked [sHedC/homeassistant-brands](https://github.com/sHedC/homeassistant-brands) from [home-assistant/brands](https://github.com/home-assistant/brands)
+2. ✔️ Closed issue [#15](https://github.com/sHedC/homeassistant-mastertherm/issues/15) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. 🎉 Merged PR [#19](https://github.com/sHedC/homeassistant-mastertherm/pull/19) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. 💪 Opened PR [#19](https://github.com/sHedC/homeassistant-mastertherm/pull/19) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ✔️ Closed issue [#15](https://github.com/sHedC/homeassistant-mastertherm/issues/15) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 8th, 2022, 9:33:09 PM
+Last Updated: Thursday, December 8th, 2022, 10:08:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

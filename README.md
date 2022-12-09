@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#17](https://github.com/sHedC/python-masterthermconnect/issues/17) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. 🎉 Merged PR [#21](https://github.com/sHedC/python-masterthermconnect/pull/21) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. 💪 Opened PR [#21](https://github.com/sHedC/python-masterthermconnect/pull/21) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✔️ Closed issue [#16](https://github.com/sHedC/python-masterthermconnect/issues/16) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 🎉 Merged PR [#20](https://github.com/sHedC/python-masterthermconnect/pull/20) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✔️ Closed issue [#18](https://github.com/sHedC/python-masterthermconnect/issues/18) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. 🎉 Merged PR [#23](https://github.com/sHedC/python-masterthermconnect/pull/23) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 💪 Opened PR [#23](https://github.com/sHedC/python-masterthermconnect/pull/23) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. ✔️ Closed issue [#17](https://github.com/sHedC/python-masterthermconnect/issues/17) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. 🎉 Merged PR [#21](https://github.com/sHedC/python-masterthermconnect/pull/21) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 9th, 2022, 2:33:10 PM
+Last Updated: Friday, December 9th, 2022, 3:08:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

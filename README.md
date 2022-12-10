@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#25](https://github.com/sHedC/python-masterthermconnect/pull/25) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. 💪 Opened PR [#25](https://github.com/sHedC/python-masterthermconnect/pull/25) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✔️ Closed issue [#22](https://github.com/sHedC/python-masterthermconnect/issues/22) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✔️ Closed issue [#22](https://github.com/sHedC/python-masterthermconnect/issues/22) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 🎉 Merged PR [#24](https://github.com/sHedC/python-masterthermconnect/pull/24) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✌️ Released [First Main Version Release Candidate 5](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc5) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✔️ Closed issue [#10](https://github.com/sHedC/python-masterthermconnect/issues/10) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 🎉 Merged PR [#27](https://github.com/sHedC/python-masterthermconnect/pull/27) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 💪 Opened PR [#27](https://github.com/sHedC/python-masterthermconnect/pull/27) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✔️ Closed issue [#9](https://github.com/sHedC/python-masterthermconnect/issues/9) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 10th, 2022, 5:08:00 AM
+Last Updated: Saturday, December 10th, 2022, 5:33:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

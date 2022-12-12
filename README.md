@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#29](https://github.com/sHedC/python-masterthermconnect/issues/29) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✔️ Closed issue [#14](https://github.com/sHedC/homeassistant-mastertherm/issues/14) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ❗️ Opened issue [#28](https://github.com/sHedC/python-masterthermconnect/issues/28) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✌️ Released [First Main Version Release Candidate 5](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc5) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ✔️ Closed issue [#10](https://github.com/sHedC/python-masterthermconnect/issues/10) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ❗️ Opened issue [#30](https://github.com/sHedC/python-masterthermconnect/issues/30) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ❗️ Opened issue [#29](https://github.com/sHedC/python-masterthermconnect/issues/29) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ✔️ Closed issue [#14](https://github.com/sHedC/homeassistant-mastertherm/issues/14) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ❗️ Opened issue [#28](https://github.com/sHedC/python-masterthermconnect/issues/28) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✌️ Released [First Main Version Release Candidate 5](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc5) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 12th, 2022, 11:33:20 AM
+Last Updated: Monday, December 12th, 2022, 12:17:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

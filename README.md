@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#31](https://github.com/sHedC/python-masterthermconnect/pull/31) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ❗️ Opened issue [#30](https://github.com/sHedC/python-masterthermconnect/issues/30) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ❗️ Opened issue [#29](https://github.com/sHedC/python-masterthermconnect/issues/29) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✔️ Closed issue [#14](https://github.com/sHedC/homeassistant-mastertherm/issues/14) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ❗️ Opened issue [#28](https://github.com/sHedC/python-masterthermconnect/issues/28) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✔️ Closed issue [#30](https://github.com/sHedC/python-masterthermconnect/issues/30) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. 🎉 Merged PR [#31](https://github.com/sHedC/python-masterthermconnect/pull/31) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 💪 Opened PR [#31](https://github.com/sHedC/python-masterthermconnect/pull/31) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. ❗️ Opened issue [#30](https://github.com/sHedC/python-masterthermconnect/issues/30) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ❗️ Opened issue [#29](https://github.com/sHedC/python-masterthermconnect/issues/29) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 12th, 2022, 2:34:06 PM
+Last Updated: Monday, December 12th, 2022, 3:09:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

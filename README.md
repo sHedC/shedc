@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#20](https://github.com/sHedC/homeassistant-mastertherm/pull/20) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ✌️ Released [1.1.0 Release Candidate 6](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc6) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✔️ Closed issue [#32](https://github.com/sHedC/python-masterthermconnect/issues/32) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. 🎉 Merged PR [#33](https://github.com/sHedC/python-masterthermconnect/pull/33) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 💪 Opened PR [#33](https://github.com/sHedC/python-masterthermconnect/pull/33) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✔️ Closed issue [#16](https://github.com/sHedC/homeassistant-mastertherm/issues/16) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. 🎉 Merged PR [#20](https://github.com/sHedC/homeassistant-mastertherm/pull/20) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. 💪 Opened PR [#20](https://github.com/sHedC/homeassistant-mastertherm/pull/20) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✌️ Released [1.1.0 Release Candidate 6](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc6) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✔️ Closed issue [#32](https://github.com/sHedC/python-masterthermconnect/issues/32) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 15th, 2022, 6:34:20 PM
+Last Updated: Thursday, December 15th, 2022, 7:06:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

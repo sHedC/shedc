@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#27](https://github.com/sHedC/homeassistant-mastertherm/issues/27) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ❗️ Opened issue [#27](https://github.com/sHedC/homeassistant-mastertherm/issues/27) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ✔️ Closed issue [#22](https://github.com/sHedC/homeassistant-mastertherm/issues/22) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 🎉 Merged PR [#26](https://github.com/sHedC/homeassistant-mastertherm/pull/26) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 💪 Opened PR [#26](https://github.com/sHedC/homeassistant-mastertherm/pull/26) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ❗️ Opened issue [#38](https://github.com/sHedC/python-masterthermconnect/issues/38) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✔️ Closed issue [#36](https://github.com/sHedC/python-masterthermconnect/issues/36) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ✔️ Closed issue [#36](https://github.com/sHedC/python-masterthermconnect/issues/36) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 🎉 Merged PR [#37](https://github.com/sHedC/python-masterthermconnect/pull/37) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. 💪 Opened PR [#37](https://github.com/sHedC/python-masterthermconnect/pull/37) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 19th, 2022, 9:08:14 PM
+Last Updated: Monday, December 19th, 2022, 9:33:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

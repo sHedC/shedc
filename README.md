@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Update Pad (Thermostat Information)](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc8) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ❗️ Opened issue [#38](https://github.com/sHedC/python-masterthermconnect/issues/38) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✔️ Closed issue [#36](https://github.com/sHedC/python-masterthermconnect/issues/36) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ❗️ Opened issue [#40](https://github.com/sHedC/python-masterthermconnect/issues/40) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✌️ Released [Update Pad (Thermostat Information)](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc8) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ❗️ Opened issue [#38](https://github.com/sHedC/python-masterthermconnect/issues/38) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 4. ✔️ Closed issue [#36](https://github.com/sHedC/python-masterthermconnect/issues/36) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 🎉 Merged PR [#37](https://github.com/sHedC/python-masterthermconnect/pull/37) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✔️ Closed issue [#36](https://github.com/sHedC/python-masterthermconnect/issues/36) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 21st, 2022, 9:33:16 AM
+Last Updated: Wednesday, December 21st, 2022, 10:09:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

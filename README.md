@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#40](https://github.com/sHedC/python-masterthermconnect/issues/40) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✌️ Released [Update Pad (Thermostat Information)](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc8) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ❗️ Opened issue [#38](https://github.com/sHedC/python-masterthermconnect/issues/38) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✔️ Closed issue [#36](https://github.com/sHedC/python-masterthermconnect/issues/36) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ✔️ Closed issue [#36](https://github.com/sHedC/python-masterthermconnect/issues/36) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. 🎉 Merged PR [#43](https://github.com/sHedC/python-masterthermconnect/pull/43) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. 💪 Opened PR [#43](https://github.com/sHedC/python-masterthermconnect/pull/43) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ✔️ Closed issue [#39](https://github.com/sHedC/python-masterthermconnect/issues/39) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 🎉 Merged PR [#42](https://github.com/sHedC/python-masterthermconnect/pull/42) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. 💪 Opened PR [#42](https://github.com/sHedC/python-masterthermconnect/pull/42) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 22nd, 2022, 11:32:55 AM
+Last Updated: Thursday, December 22nd, 2022, 12:16:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

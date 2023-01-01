@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#55](https://github.com/sHedC/python-masterthermconnect/issues/55) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. 🎉 Merged PR [#56](https://github.com/sHedC/python-masterthermconnect/pull/56) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. 💪 Opened PR [#56](https://github.com/sHedC/python-masterthermconnect/pull/56) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ❗️ Opened issue [#55](https://github.com/sHedC/python-masterthermconnect/issues/55) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ❗️ Opened issue [#54](https://github.com/sHedC/python-masterthermconnect/issues/54) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✌️ Released [Fix problem with release on PyPi](https://github.com/sHedC/python-masterthermconnect/releases/tag/1.1.0-rc11) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✔️ Closed issue [#55](https://github.com/sHedC/python-masterthermconnect/issues/55) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 🎉 Merged PR [#56](https://github.com/sHedC/python-masterthermconnect/pull/56) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 💪 Opened PR [#56](https://github.com/sHedC/python-masterthermconnect/pull/56) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ❗️ Opened issue [#55](https://github.com/sHedC/python-masterthermconnect/issues/55) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 1st, 2023, 7:32:48 PM
+Last Updated: Sunday, January 1st, 2023, 8:08:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 2.0.0 alpha 4](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.0.0-a4) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✌️ Released [Release 2.0.0-a3](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.0.0-a3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ❗️ Opened issue [#69](https://github.com/sHedC/python-masterthermconnect/issues/69) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✌️ Released [Release 1.0.0 Alpha 4](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.0.0-a4) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✔️ Closed issue [#49](https://github.com/sHedC/homeassistant-mastertherm/issues/49) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ✌️ Released [Release 1.0.0 alpha 5](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.0.0-a5) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✌️ Released [Release 1.0.0 Alpha 5](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.0.0-a5) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ✌️ Released [Release 2.0.0 alpha 4](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.0.0-a4) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. ✌️ Released [Release 2.0.0-a3](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.0.0-a3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ❗️ Opened issue [#69](https://github.com/sHedC/python-masterthermconnect/issues/69) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 29th, 2023, 5:32:50 PM
+Last Updated: Sunday, January 29th, 2023, 6:09:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

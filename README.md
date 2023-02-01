@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#54](https://github.com/sHedC/homeassistant-mastertherm/issues/54) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ✔️ Closed issue [#53](https://github.com/sHedC/homeassistant-mastertherm/issues/53) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ❗️ Opened issue [#54](https://github.com/sHedC/homeassistant-mastertherm/issues/54) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. ✔️ Closed issue [#19](https://github.com/sHedC/python-masterthermconnect/issues/19) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ✔️ Closed issue [#29](https://github.com/sHedC/python-masterthermconnect/issues/29) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. 💪 Opened PR [#56](https://github.com/sHedC/homeassistant-mastertherm/pull/56) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. 🎉 Merged PR [#55](https://github.com/sHedC/homeassistant-mastertherm/pull/55) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ✔️ Closed issue [#54](https://github.com/sHedC/homeassistant-mastertherm/issues/54) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✔️ Closed issue [#53](https://github.com/sHedC/homeassistant-mastertherm/issues/53) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ❗️ Opened issue [#54](https://github.com/sHedC/homeassistant-mastertherm/issues/54) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 1st, 2023, 7:33:29 AM
+Last Updated: Wednesday, February 1st, 2023, 8:11:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

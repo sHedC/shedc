@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#76](https://github.com/sHedC/python-masterthermconnect/issues/76) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ❗️ Opened issue [#75](https://github.com/sHedC/python-masterthermconnect/issues/75) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ❗️ Opened issue [#63](https://github.com/sHedC/homeassistant-mastertherm/issues/63) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. ❗️ Opened issue [#74](https://github.com/sHedC/python-masterthermconnect/issues/74) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ❗️ Opened issue [#73](https://github.com/sHedC/python-masterthermconnect/issues/73) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. 💪 Opened PR [#77](https://github.com/sHedC/python-masterthermconnect/pull/77) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ❗️ Opened issue [#76](https://github.com/sHedC/python-masterthermconnect/issues/76) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ❗️ Opened issue [#75](https://github.com/sHedC/python-masterthermconnect/issues/75) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. ❗️ Opened issue [#63](https://github.com/sHedC/homeassistant-mastertherm/issues/63) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ❗️ Opened issue [#74](https://github.com/sHedC/python-masterthermconnect/issues/74) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 11th, 2023, 7:32:42 PM
+Last Updated: Saturday, February 11th, 2023, 8:08:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

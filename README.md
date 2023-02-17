@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#80](https://github.com/sHedC/python-masterthermconnect/pull/80) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. 💪 Opened PR [#80](https://github.com/sHedC/python-masterthermconnect/pull/80) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✔️ Closed issue [#74](https://github.com/sHedC/python-masterthermconnect/issues/74) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. 🎉 Merged PR [#79](https://github.com/sHedC/python-masterthermconnect/pull/79) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 💪 Opened PR [#79](https://github.com/sHedC/python-masterthermconnect/pull/79) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. 🎉 Merged PR [#65](https://github.com/sHedC/homeassistant-mastertherm/pull/65) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. 💪 Opened PR [#65](https://github.com/sHedC/homeassistant-mastertherm/pull/65) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ✌️ Released [Release 2.1.0 Beta 0](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.1.0-b0) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 🎉 Merged PR [#80](https://github.com/sHedC/python-masterthermconnect/pull/80) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. 💪 Opened PR [#80](https://github.com/sHedC/python-masterthermconnect/pull/80) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 17th, 2023, 8:33:06 PM
+Last Updated: Friday, February 17th, 2023, 9:07:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

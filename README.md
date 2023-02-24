@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#79](https://github.com/sHedC/homeassistant-mastertherm/pull/79) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#78](https://github.com/sHedC/homeassistant-mastertherm/pull/78) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. 💪 Opened PR [#78](https://github.com/sHedC/homeassistant-mastertherm/pull/78) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 🎉 Merged PR [#77](https://github.com/sHedC/homeassistant-mastertherm/pull/77) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 💪 Opened PR [#77](https://github.com/sHedC/homeassistant-mastertherm/pull/77) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ✌️ Released [Release 1.1.0 Beta 2](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.0-b2) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ✔️ Closed issue [#75](https://github.com/sHedC/homeassistant-mastertherm/issues/75) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. 🎉 Merged PR [#79](https://github.com/sHedC/homeassistant-mastertherm/pull/79) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✌️ Released [Release 2.1.0 Beta 3](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.1.0-b3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. 💪 Opened PR [#79](https://github.com/sHedC/homeassistant-mastertherm/pull/79) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 24th, 2023, 6:11:40 PM
+Last Updated: Friday, February 24th, 2023, 6:38:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

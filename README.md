@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/sHedC/hacs-default/pull/1) in [sHedC/hacs-default](https://github.com/sHedC/hacs-default)
-2. ❌ Closed PR [#1730](https://github.com/hacs/default/pull/1730) in [hacs/default](https://github.com/hacs/default)
-3. 💪 Opened PR [#1](https://github.com/sHedC/hacs-default/pull/1) in [sHedC/hacs-default](https://github.com/sHedC/hacs-default)
-4. ✌️ Released [Release 1.1.0 Beta 2](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.0-b2) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✔️ Closed issue [#75](https://github.com/sHedC/homeassistant-mastertherm/issues/75) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ❌ Closed PR [#1756](https://github.com/hacs/default/pull/1756) in [hacs/default](https://github.com/hacs/default)
+2. 💪 Opened PR [#1756](https://github.com/hacs/default/pull/1756) in [hacs/default](https://github.com/hacs/default)
+3. 💪 Opened PR [#1755](https://github.com/hacs/default/pull/1755) in [hacs/default](https://github.com/hacs/default)
+4. 🎉 Merged PR [#1](https://github.com/sHedC/hacs-default/pull/1) in [sHedC/hacs-default](https://github.com/sHedC/hacs-default)
+5. ❌ Closed PR [#1730](https://github.com/hacs/default/pull/1730) in [hacs/default](https://github.com/hacs/default)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 25th, 2023, 2:07:42 PM
+Last Updated: Saturday, February 25th, 2023, 2:33:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

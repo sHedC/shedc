@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#91](https://github.com/sHedC/python-masterthermconnect/pull/91) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ❗️ Opened issue [#90](https://github.com/sHedC/python-masterthermconnect/issues/90) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✌️ Released [Release 1.1.0 Beta 6](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.0-b5) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 🎉 Merged PR [#83](https://github.com/sHedC/homeassistant-mastertherm/pull/83) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✔️ Closed issue [#81](https://github.com/sHedC/homeassistant-mastertherm/issues/81) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ✔️ Closed issue [#90](https://github.com/sHedC/python-masterthermconnect/issues/90) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. 🎉 Merged PR [#91](https://github.com/sHedC/python-masterthermconnect/pull/91) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 💪 Opened PR [#91](https://github.com/sHedC/python-masterthermconnect/pull/91) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. ❗️ Opened issue [#90](https://github.com/sHedC/python-masterthermconnect/issues/90) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✌️ Released [Release 1.1.0 Beta 6](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.0-b5) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 28th, 2023, 2:35:26 PM
+Last Updated: Tuesday, February 28th, 2023, 3:09:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

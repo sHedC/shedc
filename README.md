@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 2.2.1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✔️ Closed issue [#92](https://github.com/sHedC/python-masterthermconnect/issues/92) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. 🎉 Merged PR [#93](https://github.com/sHedC/python-masterthermconnect/pull/93) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. 💪 Opened PR [#93](https://github.com/sHedC/python-masterthermconnect/pull/93) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ❗️ Opened issue [#92](https://github.com/sHedC/python-masterthermconnect/issues/92) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ❗️ Opened issue [#86](https://github.com/sHedC/homeassistant-mastertherm/issues/86) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ✌️ Released [Release 2.2.1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ✔️ Closed issue [#92](https://github.com/sHedC/python-masterthermconnect/issues/92) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 🎉 Merged PR [#93](https://github.com/sHedC/python-masterthermconnect/pull/93) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. 💪 Opened PR [#93](https://github.com/sHedC/python-masterthermconnect/pull/93) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 9th, 2023, 7:33:14 PM
+Last Updated: Thursday, March 9th, 2023, 8:10:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

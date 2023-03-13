@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#89](https://github.com/sHedC/homeassistant-mastertherm/issues/89) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ❗️ Opened issue [#88](https://github.com/sHedC/homeassistant-mastertherm/issues/88) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ✌️ Released [Release 1.1.1](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.1) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. ✔️ Closed issue [#86](https://github.com/sHedC/homeassistant-mastertherm/issues/86) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 🎉 Merged PR [#87](https://github.com/sHedC/homeassistant-mastertherm/pull/87) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ❗️ Opened issue [#90](https://github.com/sHedC/homeassistant-mastertherm/issues/90) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ❗️ Opened issue [#89](https://github.com/sHedC/homeassistant-mastertherm/issues/89) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ❗️ Opened issue [#88](https://github.com/sHedC/homeassistant-mastertherm/issues/88) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✌️ Released [Release 1.1.1](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.1) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ✔️ Closed issue [#86](https://github.com/sHedC/homeassistant-mastertherm/issues/86) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 13th, 2023, 6:10:50 PM
+Last Updated: Monday, March 13th, 2023, 6:36:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

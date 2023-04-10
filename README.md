@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 1.1.3](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.3) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#94](https://github.com/sHedC/homeassistant-mastertherm/pull/94) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ✔️ Closed issue [#93](https://github.com/sHedC/homeassistant-mastertherm/issues/93) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 💪 Opened PR [#94](https://github.com/sHedC/homeassistant-mastertherm/pull/94) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✌️ Released [Release 2.2.3](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✌️ Released [Release 1.1.4](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.4) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ✔️ Closed issue [#95](https://github.com/sHedC/homeassistant-mastertherm/issues/95) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ✔️ Closed issue [#95](https://github.com/sHedC/homeassistant-mastertherm/issues/95) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. 🎉 Merged PR [#96](https://github.com/sHedC/homeassistant-mastertherm/pull/96) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. 💪 Opened PR [#96](https://github.com/sHedC/homeassistant-mastertherm/pull/96) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 10th, 2023, 11:32:45 AM
+Last Updated: Monday, April 10th, 2023, 12:06:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

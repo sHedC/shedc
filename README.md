@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 1.1.4](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.4) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ✔️ Closed issue [#95](https://github.com/sHedC/homeassistant-mastertherm/issues/95) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ✔️ Closed issue [#95](https://github.com/sHedC/homeassistant-mastertherm/issues/95) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 🎉 Merged PR [#96](https://github.com/sHedC/homeassistant-mastertherm/pull/96) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 💪 Opened PR [#96](https://github.com/sHedC/homeassistant-mastertherm/pull/96) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. 🎉 Merged PR [#7](https://github.com/sHedC/homeassistant-ambrogio/pull/7) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+2. 🎉 Merged PR [#6](https://github.com/sHedC/homeassistant-ambrogio/pull/6) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+3. ✌️ Released [Release 1.1.4](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.4) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✔️ Closed issue [#95](https://github.com/sHedC/homeassistant-mastertherm/issues/95) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ✔️ Closed issue [#95](https://github.com/sHedC/homeassistant-mastertherm/issues/95) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 13th, 2023, 11:07:39 PM
+Last Updated: Thursday, April 13th, 2023, 11:32:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

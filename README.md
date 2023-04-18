@@ -26,7 +26,7 @@
 5. 🎉 Merged PR [#6](https://github.com/sHedC/homeassistant-ambrogio/pull/6) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 18th, 2023, 11:33:05 AM
+Last Updated: Tuesday, April 18th, 2023, 12:07:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

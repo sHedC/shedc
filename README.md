@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#26](https://github.com/sHedC/homeassistant-ambrogio/pull/26) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-2. 💪 Opened PR [#26](https://github.com/sHedC/homeassistant-ambrogio/pull/26) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-3. ❗️ Opened issue [#25](https://github.com/sHedC/homeassistant-ambrogio/issues/25) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-4. 🎉 Merged PR [#24](https://github.com/sHedC/homeassistant-ambrogio/pull/24) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-5. ❗️ Opened issue [#23](https://github.com/sHedC/homeassistant-ambrogio/issues/23) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+1. ❗️ Opened issue [#28](https://github.com/sHedC/homeassistant-ambrogio/issues/28) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+2. 🎉 Merged PR [#26](https://github.com/sHedC/homeassistant-ambrogio/pull/26) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+3. 💪 Opened PR [#26](https://github.com/sHedC/homeassistant-ambrogio/pull/26) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+4. ❗️ Opened issue [#25](https://github.com/sHedC/homeassistant-ambrogio/issues/25) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+5. 🎉 Merged PR [#24](https://github.com/sHedC/homeassistant-ambrogio/pull/24) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 3rd, 2023, 2:32:45 PM
+Last Updated: Wednesday, May 3rd, 2023, 3:07:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#98](https://github.com/sHedC/homeassistant-mastertherm/issues/98) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#43](https://github.com/sHedC/homeassistant-ambrogio/pull/43) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-3. 💪 Opened PR [#43](https://github.com/sHedC/homeassistant-ambrogio/pull/43) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-4. 🎉 Merged PR [#42](https://github.com/sHedC/homeassistant-ambrogio/pull/42) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-5. 👍 Approved [#42](https://github.com/sHedC/homeassistant-ambrogio/pull/42#pullrequestreview-1426720077) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+1. 🎉 Merged PR [#100](https://github.com/sHedC/python-masterthermconnect/pull/100) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. 💪 Opened PR [#100](https://github.com/sHedC/python-masterthermconnect/pull/100) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ❗️ Opened issue [#98](https://github.com/sHedC/homeassistant-mastertherm/issues/98) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. 🎉 Merged PR [#43](https://github.com/sHedC/homeassistant-ambrogio/pull/43) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+5. 💪 Opened PR [#43](https://github.com/sHedC/homeassistant-ambrogio/pull/43) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 13th, 2023, 10:32:51 PM
+Last Updated: Tuesday, June 13th, 2023, 11:08:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

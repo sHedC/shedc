@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 1.1.5 Beta 2](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.5-b2) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ✌️ Released [Release 2.2.5 Beta 1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.5-b1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✔️ Closed issue [#101](https://github.com/sHedC/python-masterthermconnect/issues/101) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. 🎉 Merged PR [#103](https://github.com/sHedC/python-masterthermconnect/pull/103) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 💪 Opened PR [#103](https://github.com/sHedC/python-masterthermconnect/pull/103) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. 🎉 Merged PR [#52](https://github.com/sHedC/homeassistant-ambrogio/pull/52) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+2. 💪 Opened PR [#52](https://github.com/sHedC/homeassistant-ambrogio/pull/52) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+3. ✌️ Released [Release 1.1.5 Beta 2](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.5-b2) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✌️ Released [Release 2.2.5 Beta 1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.5-b1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✔️ Closed issue [#101](https://github.com/sHedC/python-masterthermconnect/issues/101) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 14th, 2023, 8:06:36 PM
+Last Updated: Wednesday, June 14th, 2023, 8:33:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

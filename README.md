@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#106](https://github.com/sHedC/homeassistant-mastertherm/issues/106) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#52](https://github.com/sHedC/homeassistant-ambrogio/pull/52) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-3. 💪 Opened PR [#52](https://github.com/sHedC/homeassistant-ambrogio/pull/52) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
-4. ✌️ Released [Release 1.1.5 Beta 2](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.5-b2) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✌️ Released [Release 2.2.5 Beta 1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.5-b1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. 🎉 Merged PR [#107](https://github.com/sHedC/homeassistant-mastertherm/pull/107) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ✌️ Released [Release 2.2.5](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.5) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 🎉 Merged PR [#54](https://github.com/sHedC/homeassistant-ambrogio/pull/54) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+4. 💪 Opened PR [#54](https://github.com/sHedC/homeassistant-ambrogio/pull/54) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+5. 🎉 Merged PR [#53](https://github.com/sHedC/homeassistant-ambrogio/pull/53) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 23rd, 2023, 8:33:04 PM
+Last Updated: Friday, June 23rd, 2023, 9:09:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

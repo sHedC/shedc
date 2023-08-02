@@ -26,7 +26,7 @@
 5. ✔️ Closed issue [#23](https://github.com/sHedC/homeassistant-ambrogio/issues/23) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 2nd, 2023, 2:11:21 PM
+Last Updated: Wednesday, August 2nd, 2023, 2:32:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

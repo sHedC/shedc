@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 2.2.6 Beta 3](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✌️ Released [Release 2.2.6 Beta 2](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b2) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✌️ Released [Release 2.2.6 Beta 1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✌️ Released [Release 2.2.6 Beta 0](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b0) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. ✔️ Closed issue [#104](https://github.com/sHedC/python-masterthermconnect/issues/104) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✌️ Released [Release 2.2.6 Beta 6](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b6) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✌️ Released [Release 2.2.6 Beta 4](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b4) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ✌️ Released [Release 2.2.6 Beta 3](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. ✌️ Released [Release 2.2.6 Beta 2](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b2) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✌️ Released [Release 2.2.6 Beta 1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.6-b1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 8th, 2023, 4:08:30 PM
+Last Updated: Tuesday, August 8th, 2023, 4:33:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

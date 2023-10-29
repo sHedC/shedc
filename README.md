@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#153](https://github.com/sHedC/homeassistant-mastertherm/pull/153) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ❌ Closed PR [#152](https://github.com/sHedC/homeassistant-mastertherm/pull/152) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. 🎉 Merged PR [#151](https://github.com/sHedC/homeassistant-mastertherm/pull/151) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. ❌ Closed PR [#152](https://github.com/sHedC/homeassistant-mastertherm/pull/152) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 💪 Opened PR [#152](https://github.com/sHedC/homeassistant-mastertherm/pull/152) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ✌️ Released [Release 2.2.7](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.7) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✔️ Closed issue [#99](https://github.com/sHedC/python-masterthermconnect/issues/99) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 🎉 Merged PR [#106](https://github.com/sHedC/python-masterthermconnect/pull/106) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 💪 Opened PR [#153](https://github.com/sHedC/homeassistant-mastertherm/pull/153) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ❌ Closed PR [#152](https://github.com/sHedC/homeassistant-mastertherm/pull/152) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 29th, 2023, 7:05:50 PM
+Last Updated: Sunday, October 29th, 2023, 7:32:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 2.2.0 Beta 0](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.9-b0) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✌️ Released [Release 2.2.8](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.8) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. ✌️ Released [Release 2.2.7](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.7) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✔️ Closed issue [#99](https://github.com/sHedC/python-masterthermconnect/issues/99) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 🎉 Merged PR [#106](https://github.com/sHedC/python-masterthermconnect/pull/106) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✌️ Released [Release 2.2.9 Beta 1](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.9-b1) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. ✌️ Released [Release 2.2.0 Beta 0](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.9-b0) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ✌️ Released [Release 2.2.8](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.8) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. ✌️ Released [Release 2.2.7](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.7) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✔️ Closed issue [#99](https://github.com/sHedC/python-masterthermconnect/issues/99) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 29th, 2023, 8:32:35 PM
+Last Updated: Sunday, October 29th, 2023, 9:06:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

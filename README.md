@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#158](https://github.com/sHedC/homeassistant-mastertherm/pull/158) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#157](https://github.com/sHedC/homeassistant-mastertherm/pull/157) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ✌️ Released [Release 2.2.10](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.2.10) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ✔️ Closed issue [#107](https://github.com/sHedC/python-masterthermconnect/issues/107) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 🎉 Merged PR [#108](https://github.com/sHedC/python-masterthermconnect/pull/108) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. ✔️ Closed issue [#159](https://github.com/sHedC/homeassistant-mastertherm/issues/159) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. 🎉 Merged PR [#161](https://github.com/sHedC/homeassistant-mastertherm/pull/161) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. 💪 Opened PR [#161](https://github.com/sHedC/homeassistant-mastertherm/pull/161) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. 🎉 Merged PR [#158](https://github.com/sHedC/homeassistant-mastertherm/pull/158) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. 🎉 Merged PR [#157](https://github.com/sHedC/homeassistant-mastertherm/pull/157) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 7th, 2023, 11:07:33 AM
+Last Updated: Thursday, December 7th, 2023, 11:33:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

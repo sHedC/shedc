@@ -19,14 +19,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#163](https://github.com/sHedC/homeassistant-mastertherm/pull/163) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#164](https://github.com/sHedC/homeassistant-mastertherm/pull/164) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. 🎉 Merged PR [#162](https://github.com/sHedC/homeassistant-mastertherm/pull/162) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 🎉 Merged PR [#165](https://github.com/sHedC/homeassistant-mastertherm/pull/165) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✌️ Released [Release 1.1.9](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.1.9) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. 🎉 Merged PR [#91](https://github.com/sHedC/homeassistant-ambrogio/pull/91) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+2. 🎉 Merged PR [#98](https://github.com/sHedC/homeassistant-ambrogio/pull/98) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+3. 🎉 Merged PR [#102](https://github.com/sHedC/homeassistant-ambrogio/pull/102) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+4. 🎉 Merged PR [#90](https://github.com/sHedC/homeassistant-ambrogio/pull/90) in [sHedC/homeassistant-ambrogio](https://github.com/sHedC/homeassistant-ambrogio)
+5. 🎉 Merged PR [#163](https://github.com/sHedC/homeassistant-mastertherm/pull/163) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 3rd, 2024, 8:33:09 PM
+Last Updated: Wednesday, January 3rd, 2024, 9:07:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

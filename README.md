@@ -1,13 +1,15 @@
-#### Hi, I am Richard @shedc. I consultant on SAP Cloud Solutions as Shed Consulting Ltd.
+#### Hi, I am Richard @shedc. I consultant on SAP Cloud Solutions as Shed Consulting Ltd, I also code in EXCEL VBA/ Python/ Quasar Vue/ Botpress
+
+## ✔️ Finished Projects
+- Mastertherm Heatpump Integration for Home Assistant
 
 ## 👋 Projects I am slowely working on:
-- Mastertherm Heatpump integration for Home Assistant, currently in development
+- Ambrogio Robot Mower Integration for Home Assistant
 - Learning Spring Boot and Quasar
 - Building Excel Tools and Macros
 
 ## 👀 Other things I am interested in:
 - Trying to learn Spanish
-- Working on SAP Activate Certification
 - Sport (Running slowely!!!, Spartan also Slowely!!!)
 - Snowboarding (when I get the chance)
 - Gardening (a Lot of it)

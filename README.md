@@ -21,14 +21,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#173](https://github.com/sHedC/homeassistant-mastertherm/pull/173) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. 🎉 Merged PR [#172](https://github.com/sHedC/homeassistant-mastertherm/pull/172) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. 🎉 Merged PR [#171](https://github.com/sHedC/homeassistant-mastertherm/pull/171) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 🎉 Merged PR [#168](https://github.com/sHedC/homeassistant-mastertherm/pull/168) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 🔱 Forked [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele) from [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele)
+1. ❗️ Opened issue [#174](https://github.com/sHedC/homeassistant-mastertherm/issues/174) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ❗️ Opened issue [#109](https://github.com/sHedC/python-masterthermconnect/issues/109) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. 🎉 Merged PR [#173](https://github.com/sHedC/homeassistant-mastertherm/pull/173) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. 🎉 Merged PR [#172](https://github.com/sHedC/homeassistant-mastertherm/pull/172) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. 🎉 Merged PR [#171](https://github.com/sHedC/homeassistant-mastertherm/pull/171) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 7th, 2024, 8:07:36 PM
+Last Updated: Wednesday, February 7th, 2024, 8:33:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

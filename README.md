@@ -21,14 +21,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#170](https://github.com/HomeAssistant-Mods/home-assistant-miele/pull/170) in [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele)
-2. 🎉 Merged PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
-3. 💪 Opened PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
-4. ❗️ Opened issue [#178](https://github.com/sHedC/homeassistant-mastertherm/issues/178) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✌️ Released [Release 2.3.0 Alpha 0](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.0-a0) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+1. 📔 Created new repository [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. 💪 Opened PR [#170](https://github.com/HomeAssistant-Mods/home-assistant-miele/pull/170) in [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele)
+3. 🎉 Merged PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
+4. 💪 Opened PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
+5. ❗️ Opened issue [#178](https://github.com/sHedC/homeassistant-mastertherm/issues/178) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 20th, 2024, 5:33:41 AM
+Last Updated: Tuesday, February 20th, 2024, 6:11:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

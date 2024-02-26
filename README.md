@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5248](https://github.com/home-assistant/brands/pull/5248) in [home-assistant/brands](https://github.com/home-assistant/brands)
-2. 📔 Created new repository [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-3. 💪 Opened PR [#170](https://github.com/HomeAssistant-Mods/home-assistant-miele/pull/170) in [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele)
-4. 🎉 Merged PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
-5. 💪 Opened PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
+1. 🎉 Merged PR [#6](https://github.com/sHedC/homeassistant-leakbot/pull/6) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. 🎉 Merged PR [#4](https://github.com/sHedC/homeassistant-leakbot/pull/4) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. 🎉 Merged PR [#7](https://github.com/sHedC/homeassistant-leakbot/pull/7) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. 💪 Opened PR [#5248](https://github.com/home-assistant/brands/pull/5248) in [home-assistant/brands](https://github.com/home-assistant/brands)
+5. 📔 Created new repository [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 26th, 2024, 4:10:45 PM
+Last Updated: Monday, February 26th, 2024, 4:35:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

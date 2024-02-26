@@ -11,7 +11,7 @@
 
 ## 👀 Other things I am interested in:
 - Trying to learn Spanish
-- Sport (Running slowely!!!, Spartan also Slowely!!!)
+- Sport (Running slowely still!!!, Spartan Done!!!)
 - Snowboarding (when I get the chance)
 - Gardening (a Lot of it)
 

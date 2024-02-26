@@ -4,8 +4,9 @@
 - Mastertherm Heatpump Integration for Home Assistant
 
 ## 👋 Projects I am slowely working on:
+- Leakbot Integration for Home Assistant
 - Ambrogio Robot Mower Integration for Home Assistant
-- Learning Spring Boot and Quasar
+- Learning Spring Boot and Quasar, AI
 - Building Excel Tools and Macros
 
 ## 👀 Other things I am interested in:

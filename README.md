@@ -21,14 +21,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-2. 💪 Opened PR [#170](https://github.com/HomeAssistant-Mods/home-assistant-miele/pull/170) in [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele)
-3. 🎉 Merged PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
-4. 💪 Opened PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
-5. ❗️ Opened issue [#178](https://github.com/sHedC/homeassistant-mastertherm/issues/178) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. 💪 Opened PR [#5248](https://github.com/home-assistant/brands/pull/5248) in [home-assistant/brands](https://github.com/home-assistant/brands)
+2. 📔 Created new repository [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. 💪 Opened PR [#170](https://github.com/HomeAssistant-Mods/home-assistant-miele/pull/170) in [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele)
+4. 🎉 Merged PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
+5. 💪 Opened PR [#1](https://github.com/sHedC/home-assistant-miele/pull/1) in [sHedC/home-assistant-miele](https://github.com/sHedC/home-assistant-miele)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 26th, 2024, 3:33:30 PM
+Last Updated: Monday, February 26th, 2024, 4:10:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

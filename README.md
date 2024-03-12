@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#111](https://github.com/sHedC/python-masterthermconnect/issues/111) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✔️ Closed issue [#49](https://github.com/sHedC/python-masterthermconnect/issues/49) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. 🎉 Merged PR [#112](https://github.com/sHedC/python-masterthermconnect/pull/112) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. 💪 Opened PR [#112](https://github.com/sHedC/python-masterthermconnect/pull/112) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-5. 🎉 Merged PR [#2](https://github.com/sHedC/homeassistant-leakbot/pull/2) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. 🎉 Merged PR [#179](https://github.com/sHedC/homeassistant-mastertherm/pull/179) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. 🎉 Merged PR [#180](https://github.com/sHedC/homeassistant-mastertherm/pull/180) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. 🎉 Merged PR [#181](https://github.com/sHedC/homeassistant-mastertherm/pull/181) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ✌️ Released [Releaes 2.3.0](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.0) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ✔️ Closed issue [#111](https://github.com/sHedC/python-masterthermconnect/issues/111) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 12th, 2024, 2:33:26 PM
+Last Updated: Tuesday, March 12th, 2024, 3:08:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#16](https://github.com/sHedC/homeassistant-leakbot/pull/16) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-2. 🎉 Merged PR [#22](https://github.com/sHedC/homeassistant-leakbot/pull/22) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-3. 💪 Opened PR [#22](https://github.com/sHedC/homeassistant-leakbot/pull/22) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-4. 🎉 Merged PR [#17](https://github.com/sHedC/homeassistant-leakbot/pull/17) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-5. 🎉 Merged PR [#18](https://github.com/sHedC/homeassistant-leakbot/pull/18) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. 🎉 Merged PR [#25](https://github.com/sHedC/homeassistant-leakbot/pull/25) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. 🎉 Merged PR [#16](https://github.com/sHedC/homeassistant-leakbot/pull/16) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. 🎉 Merged PR [#22](https://github.com/sHedC/homeassistant-leakbot/pull/22) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. 💪 Opened PR [#22](https://github.com/sHedC/homeassistant-leakbot/pull/22) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+5. 🎉 Merged PR [#17](https://github.com/sHedC/homeassistant-leakbot/pull/17) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 8th, 2024, 2:32:52 PM
+Last Updated: Monday, April 8th, 2024, 3:08:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

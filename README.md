@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.1 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-2. 💪 Opened PR [#2450](https://github.com/hacs/default/pull/2450) in [hacs/default](https://github.com/hacs/default)
-3. ✌️ Released [Release 0.1.0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-4. 🎉 Merged PR [#24](https://github.com/sHedC/homeassistant-leakbot/pull/24) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-5. 🎉 Merged PR [#23](https://github.com/sHedC/homeassistant-leakbot/pull/23) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. 🔱 Forked [sHedC/zwift](https://github.com/sHedC/zwift) from [netbrain/zwift](https://github.com/netbrain/zwift)
+2. ✌️ Released [v0.1.1 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. 💪 Opened PR [#2450](https://github.com/hacs/default/pull/2450) in [hacs/default](https://github.com/hacs/default)
+4. ✌️ Released [Release 0.1.0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+5. 🎉 Merged PR [#24](https://github.com/sHedC/homeassistant-leakbot/pull/24) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 6th, 2024, 4:10:19 AM
+Last Updated: Monday, May 6th, 2024, 4:32:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

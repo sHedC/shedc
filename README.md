@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#113](https://github.com/netbrain/zwift/pull/113) in [netbrain/zwift](https://github.com/netbrain/zwift)
-2. 🔱 Forked [sHedC/zwift](https://github.com/sHedC/zwift) from [netbrain/zwift](https://github.com/netbrain/zwift)
-3. ✌️ Released [v0.1.1 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-4. 💪 Opened PR [#2450](https://github.com/hacs/default/pull/2450) in [hacs/default](https://github.com/hacs/default)
-5. ✌️ Released [Release 0.1.0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ✔️ Closed issue [#36](https://github.com/sHedC/homeassistant-leakbot/issues/36) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. 💪 Opened PR [#113](https://github.com/netbrain/zwift/pull/113) in [netbrain/zwift](https://github.com/netbrain/zwift)
+3. 🔱 Forked [sHedC/zwift](https://github.com/sHedC/zwift) from [netbrain/zwift](https://github.com/netbrain/zwift)
+4. ✌️ Released [v0.1.1 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+5. 💪 Opened PR [#2450](https://github.com/hacs/default/pull/2450) in [hacs/default](https://github.com/hacs/default)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 8th, 2024, 2:32:24 PM
+Last Updated: Wednesday, May 8th, 2024, 3:08:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

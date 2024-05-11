@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#114](https://github.com/netbrain/zwift/issues/114) in [netbrain/zwift](https://github.com/netbrain/zwift)
-2. ✔️ Closed issue [#36](https://github.com/sHedC/homeassistant-leakbot/issues/36) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-3. 💪 Opened PR [#113](https://github.com/netbrain/zwift/pull/113) in [netbrain/zwift](https://github.com/netbrain/zwift)
-4. 🔱 Forked [sHedC/zwift](https://github.com/sHedC/zwift) from [netbrain/zwift](https://github.com/netbrain/zwift)
-5. ✌️ Released [v0.1.1 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ❌ Closed PR [#170](https://github.com/HomeAssistant-Mods/home-assistant-miele/pull/170) in [HomeAssistant-Mods/home-assistant-miele](https://github.com/HomeAssistant-Mods/home-assistant-miele)
+2. ❗️ Opened issue [#114](https://github.com/netbrain/zwift/issues/114) in [netbrain/zwift](https://github.com/netbrain/zwift)
+3. ✔️ Closed issue [#36](https://github.com/sHedC/homeassistant-leakbot/issues/36) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. 💪 Opened PR [#113](https://github.com/netbrain/zwift/pull/113) in [netbrain/zwift](https://github.com/netbrain/zwift)
+5. 🔱 Forked [sHedC/zwift](https://github.com/sHedC/zwift) from [netbrain/zwift](https://github.com/netbrain/zwift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 11th, 2024, 1:44:45 PM
+Last Updated: Saturday, May 11th, 2024, 2:08:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

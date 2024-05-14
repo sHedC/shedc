@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#124](https://github.com/netbrain/zwift/pull/124) in [netbrain/zwift](https://github.com/netbrain/zwift)
-2. ❌ Closed PR [#124](https://github.com/netbrain/zwift/pull/124) in [netbrain/zwift](https://github.com/netbrain/zwift)
-3. 💪 Opened PR [#124](https://github.com/netbrain/zwift/pull/124) in [netbrain/zwift](https://github.com/netbrain/zwift)
-4. 🎉 Merged PR [#123](https://github.com/netbrain/zwift/pull/123) in [netbrain/zwift](https://github.com/netbrain/zwift)
-5. 💪 Opened PR [#123](https://github.com/netbrain/zwift/pull/123) in [netbrain/zwift](https://github.com/netbrain/zwift)
+1. ✔️ Closed issue [#120](https://github.com/netbrain/zwift/issues/120) in [netbrain/zwift](https://github.com/netbrain/zwift)
+2. 🎉 Merged PR [#124](https://github.com/netbrain/zwift/pull/124) in [netbrain/zwift](https://github.com/netbrain/zwift)
+3. ❌ Closed PR [#124](https://github.com/netbrain/zwift/pull/124) in [netbrain/zwift](https://github.com/netbrain/zwift)
+4. 💪 Opened PR [#124](https://github.com/netbrain/zwift/pull/124) in [netbrain/zwift](https://github.com/netbrain/zwift)
+5. 🎉 Merged PR [#123](https://github.com/netbrain/zwift/pull/123) in [netbrain/zwift](https://github.com/netbrain/zwift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 14th, 2024, 6:07:43 PM
+Last Updated: Tuesday, May 14th, 2024, 6:33:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

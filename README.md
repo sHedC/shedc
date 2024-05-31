@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#145](https://github.com/netbrain/zwift/pull/145) in [netbrain/zwift](https://github.com/netbrain/zwift)
-2. ❗️ Opened issue [#144](https://github.com/netbrain/zwift/issues/144) in [netbrain/zwift](https://github.com/netbrain/zwift)
-3. ❗️ Opened issue [#143](https://github.com/netbrain/zwift/issues/143) in [netbrain/zwift](https://github.com/netbrain/zwift)
-4. 💪 Opened PR [#141](https://github.com/netbrain/zwift/pull/141) in [netbrain/zwift](https://github.com/netbrain/zwift)
-5. ✔️ Closed issue [#137](https://github.com/netbrain/zwift/issues/137) in [netbrain/zwift](https://github.com/netbrain/zwift)
+1. 🎉 Merged PR [#189](https://github.com/sHedC/homeassistant-mastertherm/pull/189) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. 🎉 Merged PR [#45](https://github.com/sHedC/homeassistant-leakbot/pull/45) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. 🎉 Merged PR [#39](https://github.com/sHedC/homeassistant-leakbot/pull/39) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. 🎉 Merged PR [#42](https://github.com/sHedC/homeassistant-leakbot/pull/42) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+5. 🎉 Merged PR [#44](https://github.com/sHedC/homeassistant-leakbot/pull/44) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 31st, 2024, 7:37:08 AM
+Last Updated: Friday, May 31st, 2024, 8:08:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

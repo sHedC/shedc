@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#148](https://github.com/netbrain/zwift/pull/148#pullrequestreview-2158737743) in [netbrain/zwift](https://github.com/netbrain/zwift)
-2. 💪 Opened PR [#146](https://github.com/netbrain/zwift/pull/146) in [netbrain/zwift](https://github.com/netbrain/zwift)
-3. 🎉 Merged PR [#192](https://github.com/sHedC/homeassistant-mastertherm/pull/192) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 🎉 Merged PR [#193](https://github.com/sHedC/homeassistant-mastertherm/pull/193) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. 🎉 Merged PR [#191](https://github.com/sHedC/homeassistant-mastertherm/pull/191) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. 🔴 Requested changes in [#149](https://github.com/netbrain/zwift/pull/149#pullrequestreview-2160909737) in [netbrain/zwift](https://github.com/netbrain/zwift)
+2. 👍 Approved [#148](https://github.com/netbrain/zwift/pull/148#pullrequestreview-2158737743) in [netbrain/zwift](https://github.com/netbrain/zwift)
+3. 💪 Opened PR [#146](https://github.com/netbrain/zwift/pull/146) in [netbrain/zwift](https://github.com/netbrain/zwift)
+4. 🎉 Merged PR [#192](https://github.com/sHedC/homeassistant-mastertherm/pull/192) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. 🎉 Merged PR [#193](https://github.com/sHedC/homeassistant-mastertherm/pull/193) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 5th, 2024, 5:37:06 PM
+Last Updated: Friday, July 5th, 2024, 6:09:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

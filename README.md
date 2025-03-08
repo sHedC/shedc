@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.1](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-2. ✌️ Released [v0.1.1 Beta 2](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1-b2) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-3. ✔️ Closed issue [#98](https://github.com/sHedC/homeassistant-leakbot/issues/98) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-4. ✔️ Closed issue [#154](https://github.com/sHedC/homeassistant-leakbot/issues/154) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ✔️ Closed issue [#151](https://github.com/sHedC/homeassistant-leakbot/issues/151) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. ✌️ Released [v0.1.1](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. ✌️ Released [v0.1.1 Beta 2](https://github.com/sHedC/homeassistant-leakbot/releases/tag/0.1.1-b2) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. ✔️ Closed issue [#98](https://github.com/sHedC/homeassistant-leakbot/issues/98) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 5. ✔️ Closed issue [#154](https://github.com/sHedC/homeassistant-leakbot/issues/154) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 8th, 2025, 12:45:54 PM
+Last Updated: Saturday, March 8th, 2025, 1:10:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

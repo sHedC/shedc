@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#173](https://github.com/sHedC/homeassistant-leakbot/issues/173) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ❗️ Opened issue [#209](https://github.com/travisghansen/hass-pfsense/issues/209) in [travisghansen/hass-pfsense](https://github.com/travisghansen/hass-pfsense)
 2. 🎉 Merged PR [#170](https://github.com/sHedC/homeassistant-leakbot/pull/170) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 3. 💪 Opened PR [#170](https://github.com/sHedC/homeassistant-leakbot/pull/170) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 4. ✔️ Closed issue [#82](https://github.com/sHedC/homeassistant-leakbot/issues/82) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 5. 🎉 Merged PR [#169](https://github.com/sHedC/homeassistant-leakbot/pull/169) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 15th, 2025, 11:11:26 PM
+Last Updated: Thursday, May 15th, 2025, 11:40:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

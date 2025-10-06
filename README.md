@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.3.0](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.0) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. 🎉 Merged PR [#204](https://github.com/sHedC/homeassistant-leakbot/pull/204) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 2. ✔️ Closed issue [#207](https://github.com/sHedC/homeassistant-mastertherm/issues/207) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 3. 🎉 Merged PR [#216](https://github.com/sHedC/homeassistant-mastertherm/pull/216) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 4. 💪 Opened PR [#216](https://github.com/sHedC/homeassistant-mastertherm/pull/216) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 5. ❗️ Opened issue [#215](https://github.com/sHedC/homeassistant-mastertherm/issues/215) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 6th, 2025, 12:33:13 AM
+Last Updated: Monday, October 6th, 2025, 1:58:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

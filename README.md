@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 1.3.1](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.1) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ✔️ Closed issue [#213](https://github.com/sHedC/homeassistant-leakbot/issues/213) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-3. ✔️ Closed issue [#221](https://github.com/sHedC/homeassistant-leakbot/issues/221) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-4. ✌️ Released [Release 1.1.1](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.1) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-5. ❗️ Opened issue [#215](https://github.com/sHedC/homeassistant-mastertherm/issues/215) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ✌️ Released [Release 1.1.2b0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.2-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. ✌️ Released [Release 1.3.1](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.1) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ✔️ Closed issue [#213](https://github.com/sHedC/homeassistant-leakbot/issues/213) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. ✔️ Closed issue [#221](https://github.com/sHedC/homeassistant-leakbot/issues/221) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+5. ✌️ Released [Release 1.1.1](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.1) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 26th, 2025, 7:33:38 PM
+Last Updated: Sunday, October 26th, 2025, 8:12:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

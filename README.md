@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Release 1.1.2b0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.2-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-2. ✌️ Released [Release 1.3.1](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.1) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ✔️ Closed issue [#213](https://github.com/sHedC/homeassistant-leakbot/issues/213) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-4. ✔️ Closed issue [#221](https://github.com/sHedC/homeassistant-leakbot/issues/221) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-5. ✌️ Released [Release 1.1.1](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.1) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ✌️ Released [Release 1.1.2](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.2) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. ✔️ Closed issue [#225](https://github.com/sHedC/homeassistant-leakbot/issues/225) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. ✌️ Released [Release 1.1.2b0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.2-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. ✌️ Released [Release 1.3.1](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.1) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ✔️ Closed issue [#213](https://github.com/sHedC/homeassistant-leakbot/issues/213) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 27th, 2025, 1:47:07 PM
+Last Updated: Monday, October 27th, 2025, 2:13:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

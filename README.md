@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jordandalley/dispatchwrapparr](https://github.com/jordandalley/dispatchwrapparr)
-2. ⭐ Starred [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
-3. ❌ Closed PR [#230](undefined) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. ❌ Closed PR [#228](undefined) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ✌️ Released [Release 1.1.3](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.3) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ⭐ Starred [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
+2. ⭐ Starred [jordandalley/dispatchwrapparr](https://github.com/jordandalley/dispatchwrapparr)
+3. ⭐ Starred [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
+4. ❌ Closed PR [#230](undefined) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. ❌ Closed PR [#228](undefined) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 1st, 2026, 4:47:23 PM
+Last Updated: Thursday, January 1st, 2026, 5:13:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#241](https://github.com/sHedC/homeassistant-mastertherm/pull/241#pullrequestreview-3657189067) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-2. ✌️ Released [Release 2.3.2](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.2) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-3. 👍 Approved [#115](https://github.com/sHedC/python-masterthermconnect/pull/115#pullrequestreview-3657058280) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-4. ⭐ Starred [cmc0619/vod2strm](https://github.com/cmc0619/vod2strm)
-5. ⭐ Starred [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
+1. ⭐ Starred [Kevinjil/Jellyfin.Xtream](https://github.com/Kevinjil/Jellyfin.Xtream)
+2. 🔴 Requested changes in [#241](https://github.com/sHedC/homeassistant-mastertherm/pull/241#pullrequestreview-3657189067) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ✌️ Released [Release 2.3.2](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.2) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 👍 Approved [#115](https://github.com/sHedC/python-masterthermconnect/pull/115#pullrequestreview-3657058280) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+5. ⭐ Starred [cmc0619/vod2strm](https://github.com/cmc0619/vod2strm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 13th, 2026, 8:44:31 PM
+Last Updated: Tuesday, January 13th, 2026, 9:13:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cmc0619/vod2strm](https://github.com/cmc0619/vod2strm)
-2. ⭐ Starred [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
-3. ⭐ Starred [jordandalley/dispatchwrapparr](https://github.com/jordandalley/dispatchwrapparr)
-4. ⭐ Starred [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr)
-5. ❌ Closed PR [#230](undefined) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+1. ✌️ Released [Release 2.3.2](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.2) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+2. 👍 Approved [#115](https://github.com/sHedC/python-masterthermconnect/pull/115#pullrequestreview-3657058280) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+3. ⭐ Starred [cmc0619/vod2strm](https://github.com/cmc0619/vod2strm)
+4. ⭐ Starred [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
+5. ⭐ Starred [jordandalley/dispatchwrapparr](https://github.com/jordandalley/dispatchwrapparr)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 13th, 2026, 5:20:22 PM
+Last Updated: Tuesday, January 13th, 2026, 5:48:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

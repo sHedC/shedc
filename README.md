@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cedric-marcoux/dispatcharr_vod_fix](https://github.com/cedric-marcoux/dispatcharr_vod_fix)
-2. ✌️ Released [Release 1.3.3](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.3) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-3. ❌ Closed PR [#236](undefined) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-4. 👍 Approved [#241](https://github.com/sHedC/homeassistant-mastertherm/pull/241#pullrequestreview-3666437723) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
-5. ⭐ Starred [Kevinjil/Jellyfin.Xtream](https://github.com/Kevinjil/Jellyfin.Xtream)
+1. ⭐ Starred [Blarm1959/VOD2strm](https://github.com/Blarm1959/VOD2strm)
+2. ⭐ Starred [cedric-marcoux/dispatcharr_vod_fix](https://github.com/cedric-marcoux/dispatcharr_vod_fix)
+3. ✌️ Released [Release 1.3.3](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.3) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+4. ❌ Closed PR [#236](undefined) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+5. 👍 Approved [#241](https://github.com/sHedC/homeassistant-mastertherm/pull/241#pullrequestreview-3666437723) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 24th, 2026, 10:13:59 AM
+Last Updated: Saturday, January 24th, 2026, 10:42:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

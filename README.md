@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MotWakorb/enhancedchannelmanager](https://github.com/MotWakorb/enhancedchannelmanager)
-2. ⭐ Starred [MercenaryJustice/Strmgen](https://github.com/MercenaryJustice/Strmgen)
-3. ⭐ Starred [Biggregw/dispatcharr-maid](https://github.com/Biggregw/dispatcharr-maid)
-4. ⭐ Starred [CtznSniiips/vod2m3u](https://github.com/CtznSniiips/vod2m3u)
-5. ⭐ Starred [Blarm1959/VOD2strm](https://github.com/Blarm1959/VOD2strm)
+1. ⭐ Starred [rostah-r/Dispatcharr-Utilities](https://github.com/rostah-r/Dispatcharr-Utilities)
+2. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
+3. ⭐ Starred [MotWakorb/enhancedchannelmanager](https://github.com/MotWakorb/enhancedchannelmanager)
+4. ⭐ Starred [MercenaryJustice/Strmgen](https://github.com/MercenaryJustice/Strmgen)
+5. ⭐ Starred [Biggregw/dispatcharr-maid](https://github.com/Biggregw/dispatcharr-maid)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 24th, 2026, 4:45:27 PM
+Last Updated: Saturday, January 24th, 2026, 5:11:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

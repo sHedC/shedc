@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CtznSniiips/vod2m3u](https://github.com/CtznSniiips/vod2m3u)
-2. ⭐ Starred [rostah-r/Dispatcharr-Utilities](https://github.com/rostah-r/Dispatcharr-Utilities)
-3. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
-4. ⭐ Starred [MotWakorb/enhancedchannelmanager](https://github.com/MotWakorb/enhancedchannelmanager)
-5. ⭐ Starred [MercenaryJustice/Strmgen](https://github.com/MercenaryJustice/Strmgen)
+1. ⭐ Starred [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter)
+2. ⭐ Starred [CtznSniiips/vod2m3u](https://github.com/CtznSniiips/vod2m3u)
+3. ⭐ Starred [rostah-r/Dispatcharr-Utilities](https://github.com/rostah-r/Dispatcharr-Utilities)
+4. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
+5. ⭐ Starred [MotWakorb/enhancedchannelmanager](https://github.com/MotWakorb/enhancedchannelmanager)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 2nd, 2026, 6:36:06 AM
+Last Updated: Monday, February 2nd, 2026, 7:43:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

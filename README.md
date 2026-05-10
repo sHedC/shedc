@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ⭐ Starred [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter)
+1. ⭐ Starred [Deathbyteacup/fluentbird](https://github.com/Deathbyteacup/fluentbird)
+2. ✌️ Released [](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.3) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 3. ⭐ Starred [CtznSniiips/vod2m3u](https://github.com/CtznSniiips/vod2m3u)
 4. ⭐ Starred [rostah-r/Dispatcharr-Utilities](https://github.com/rostah-r/Dispatcharr-Utilities)
 5. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 10th, 2026, 6:46:51 AM
+Last Updated: Sunday, May 10th, 2026, 8:58:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Watchdog0x/jLink](https://github.com/Watchdog0x/jLink)
-2. ⭐ Starred [firestaerter3/emby-xtream](https://github.com/firestaerter3/emby-xtream)
-3. ⭐ Starred [Deathbyteacup/fluentbird](https://github.com/Deathbyteacup/fluentbird)
+1. ✌️ Released [Release 1.1.4](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.4) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. ⭐ Starred [Watchdog0x/jLink](https://github.com/Watchdog0x/jLink)
+3. ⭐ Starred [firestaerter3/emby-xtream](https://github.com/firestaerter3/emby-xtream)
 4. ⭐ Starred [rostah-r/Dispatcharr-Utilities](https://github.com/rostah-r/Dispatcharr-Utilities)
 5. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 11th, 2026, 8:23:14 AM
+Last Updated: Thursday, June 11th, 2026, 12:52:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

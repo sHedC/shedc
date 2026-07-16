@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#278](undefined) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-2. ⭐ Starred [clive-stokes/vod2strm](https://github.com/clive-stokes/vod2strm)
-3. ⭐ Starred [firestaerter3/emby-xtream](https://github.com/firestaerter3/emby-xtream)
-4. ⭐ Starred [rostah-r/Dispatcharr-Utilities](https://github.com/rostah-r/Dispatcharr-Utilities)
+1. ✔️ Closed issue [#285](https://github.com/sHedC/homeassistant-leakbot/issues/285) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. ✌️ Released [Release 1.1.5](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.5) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. ❌ Closed PR [#278](undefined) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+4. ⭐ Starred [clive-stokes/vod2strm](https://github.com/clive-stokes/vod2strm)
 5. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 16th, 2026, 3:30:00 PM
+Last Updated: Thursday, July 16th, 2026, 4:56:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

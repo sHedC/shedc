@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#285](https://github.com/sHedC/homeassistant-leakbot/issues/285) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ✌️ Released [1.1.6 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.6-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 2. ✌️ Released [Release 1.1.5](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.5) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 3. ❌ Closed PR [#278](undefined) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 4. ⭐ Starred [clive-stokes/vod2strm](https://github.com/clive-stokes/vod2strm)
 5. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 22nd, 2026, 6:12:36 PM
+Last Updated: Saturday, August 22nd, 2026, 6:42:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

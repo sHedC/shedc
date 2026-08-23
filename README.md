@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.6](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.6) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-2. ✌️ Released [1.1.6 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.6-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-3. ❌ Closed PR [#278](undefined) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+1. ✔️ Closed issue [#306](https://github.com/sHedC/homeassistant-leakbot/issues/306) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+2. ✌️ Released [1.1.6](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.6) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
+3. ✌️ Released [1.1.6 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.6-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
 4. ⭐ Starred [clive-stokes/vod2strm](https://github.com/clive-stokes/vod2strm)
 5. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 23rd, 2026, 6:12:52 PM
+Last Updated: Sunday, August 23rd, 2026, 6:42:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats

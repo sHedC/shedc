@@ -22,14 +22,14 @@
 
 ## GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#116](https://github.com/sHedC/python-masterthermconnect/pull/116#pullrequestreview-5644768498) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
-2. ✌️ Released [1.1.6](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.6) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-3. ✌️ Released [1.1.6 Beta 0](https://github.com/sHedC/homeassistant-leakbot/releases/tag/1.1.6-b0) in [sHedC/homeassistant-leakbot](https://github.com/sHedC/homeassistant-leakbot)
-4. ⭐ Starred [clive-stokes/vod2strm](https://github.com/clive-stokes/vod2strm)
+1. ✌️ Released [1.3.4](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.4) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+2. ✌️ Released [Release 1.3.4 Beta 1](https://github.com/sHedC/homeassistant-mastertherm/releases/tag/1.3.4-b1) in [sHedC/homeassistant-mastertherm](https://github.com/sHedC/homeassistant-mastertherm)
+3. ✌️ Released [Release 2.3.4](https://github.com/sHedC/python-masterthermconnect/releases/tag/2.3.4) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
+4. 👍 Approved [#116](https://github.com/sHedC/python-masterthermconnect/pull/116#pullrequestreview-5644768498) in [sHedC/python-masterthermconnect](https://github.com/sHedC/python-masterthermconnect)
 5. ⭐ Starred [cedric-marcoux/dispatcharr_timeshift](https://github.com/cedric-marcoux/dispatcharr_timeshift)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 30th, 2026, 7:33:43 AM
+Last Updated: Friday, October 30th, 2026, 2:43:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## GitHub Stats
